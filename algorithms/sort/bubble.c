@@ -2,8 +2,6 @@
 
 void bubble_sort(int* array, int length) 
 {
-    printf("%d\n", array[0]);
-
     for(int i = 0; i < length; i++) 
     {
         for(int j = 1; j < length - i; j++)
