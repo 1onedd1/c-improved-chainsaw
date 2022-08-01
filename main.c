@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 #include <stdlib.h>
+#include "algorithms/sort/sort.h"
 
 void print_array(int* array, int length);
 

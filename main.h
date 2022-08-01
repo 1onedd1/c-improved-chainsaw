@@ -1,1 +1,1 @@
-#include "./algorithms/sort/bubble.h"
+#include "./algorithms/sort/sort.h"
